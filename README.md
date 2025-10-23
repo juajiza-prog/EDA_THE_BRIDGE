@@ -1,6 +1,13 @@
-# EDA_THE_BRIDGE
-#EDA 24 OCTUBRE 2025 (BITCOIN, SP500, ORO, M2)
-/img/corr6.jpg
+<span style="color: #2917f3ff;">**EDA: RELACIÓN DE LOS PRINCIPALES ÍNDICES ECONÓMICOS**</span>
+
+
+<span style="color: #a11056ff;">*EL VALOR DE BITCOIN ESTÁ MÁS LIGADO A LA M2 QUE OTROS ÍNDICES COMO EL SP500 O EL ORO*</span>
+
+
+
+
+
+
 /img/corr6.jpg
 
 
